@@ -1,0 +1,21 @@
+customer_id,purchase_date,amount,product_category,payment_method
+C001,2024-01-05,250.50,Electronics,Credit Card
+C002,2024-01-08,180.75,Clothing,Debit Card
+C003,2024-01-10,,Books,Credit Card
+C004,2024-01-12,420.00,Electronics,Credit Card
+C005,2024-01-15,95.25,Home & Garden,Debit Card
+C001,2024-01-18,320.40,Clothing,Cash
+C006,2024-01-20,150.00,Electronics,Credit Card
+C007,2024-01-22,,Books,Debit Card
+C008,2024-01-25,275.80,Home & Garden,Credit Card
+C002,2024-01-28,210.50,Electronics,Debit Card
+C009,2024-02-01,400.00,Clothing,Credit Card
+C003,2024-02-03,85.25,Books,Cash
+C010,2024-02-05,,Clothing,Debit Card
+C004,2024-02-08,530.75,Electronics,Credit Card
+C011,2024-02-10,155.00,Home & Garden,Cash
+C005,2024-02-12,220.30,Electronics,Debit Card
+C006,2024-02-15,,Clothing,Credit Card
+C012,2024-02-18,310.50,Books,Credit Card
+C007,2024-02-20,480.00,Home & Garden,Credit Card
+C008,2024-02-22,195.75,Electronics,Debit Card

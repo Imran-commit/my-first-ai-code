@@ -1,0 +1,17 @@
+customer_id,customer_name,age,location,annual_income,membership_status
+C001,John Smith,35,New York,75000,Gold
+C002,Sarah Johnson,28,Los Angeles,65000,Silver
+C003,Michael Brown,,Chicago,85000,Gold
+C004,Emily Davis,42,Houston,95000,Platinum
+C005,James Wilson,38,Phoenix,72000,Silver
+C006,Lisa Anderson,31,Philadelphia,68000,Gold
+C006,Lisa Anderson,31,Philadelphia,68000,Gold
+C007,Robert Taylor,,San Antonio,58000,Bronze
+C008,Jennifer Lee,45,San Diego,,Gold
+C009,David Martinez,29,Dallas,71000,Silver
+C010,Maria Garcia,33,San Jose,79000,Gold
+C011,Thomas Rodriguez,50,Austin,105000,Platinum
+C012,Jessica White,26,Jacksonville,52000,Bronze
+C013,Christopher Clark,,Miami,88000,Gold
+C001,John Smith,35,New York,75000,Gold
+C009,David Martinez,29,Dallas,71000,Silver
